@@ -1,6 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Иван Ланчук](https://up.htmlacademy.ru/htmlcss/28/user/981203).
+* Наставник:[https://htmlacademy.ru/profile/dima|Дмитрий Гуляев]
 
 ---
 
