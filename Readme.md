@@ -1,7 +1,10 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Иван Ланчук](https://up.htmlacademy.ru/htmlcss/28/user/981203).
-* Наставник: [Гуляев Дмитрий](https://up.htmlacademy.ru/profile/dima).
+* Наставник: [ГуляевДмитрий](https://htmlacademy.ru/profile/dima).
+
+ ---
+
 * Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
